@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +6,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+# Personal Profile Website
+
+This is a personal profile website built with React.js.
+
+## Features
+
+- Home Page
+- About Me
+- Education
+- Projects
+- Contact
+
+## Technologies
+
+- React.js
+- React Router
+- Basic CSS / Tailwind
 
 ### `npm start`
 
@@ -68,3 +86,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# personal-profile
+>>>>>>> a5f0ea8b4453481625791e23abb97eb8c2408b20
